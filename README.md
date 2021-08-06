@@ -1,5 +1,5 @@
 # SIIM-FISABIO-RSNA-COVID-19-Detection
-Identify and localize COVID-19 abnormalities on chest radiographs
+**Identify and localize COVID-19 abnormalities on chest radiographs**
 
 Five times more deadly than the flu, COVID-19 causes significant morbidity and mortality. Like other pneumonias, pulmonary infection with COVID-19 results in inflammation and fluid in the lungs. COVID-19 looks very similar to other viral and bacterial pneumonias on chest radiographs, which makes it difficult to diagnose. Your computer vision model to detect and localize COVID-19 would help doctors provide a quick and confident diagnosis. As a result, patients could get the right treatment before the most severe effects of the virus take hold.
 
