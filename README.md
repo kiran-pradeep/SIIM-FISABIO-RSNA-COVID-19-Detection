@@ -6,3 +6,6 @@ Five times more deadly than the flu, COVID-19 causes significant morbidity and m
 Currently, COVID-19 can be diagnosed via polymerase chain reaction to detect genetic material from the virus or chest radiograph. However, it can take a few hours and sometimes days before the molecular test results are back. By contrast, chest radiographs can be obtained in minutes. While guidelines exist to help radiologists differentiate COVID-19 from other types of infection, their assessments vary. In addition, non-radiologists could be supported with better localization of the disease, such as with a visual bounding box.
 
 As the leading healthcare organization in their field, the Society for Imaging Informatics in Medicine (SIIM)'s mission is to advance medical imaging informatics through education, research, and innovation.
+
+
+For the Image Level prediction I've used Yolov5 and for Study Level Prediction I used EfficientNetB7
